@@ -1,42 +1,99 @@
+/* Background */
 .app.light .background,
 .app.dark .background {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  position: fixed;      /* take it out of flow */
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;         /* cover the viewport */
-  z-index: -1;          /* sit behind all other content */
+  height: 100%;
+  z-index: -1;
 }
 
+/* Layout container */
 .nav-and-body {
   display: flex;
   gap: 2rem;
 }
 
-/* Hamburger button */
-.music-player-nav .hamburger {
-  display: none;
-  font-size: 1.5rem;
-  background: none;
-  border: none;
-  color: #fff;
-  cursor: pointer;
-  margin-bottom: 1rem;
-}
-
-.navbar {
-  display: flex;
-  gap: 1rem;
+/* Main content */
+main {
   padding: 1rem;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  width: 100vw;
 }
 
+main h1 {
+  width: 100%;
+  text-align: center;
+}
+
+/* Theme toggle */
+.theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  width: 60px;
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  padding: 1rem;
+  color: #fff;
+  z-index: 1000;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+}
+
+.theme-toggle:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: scale(1.02);
+  border: none;
+}
+
+.theme-toggle:active,
+.theme-toggle:focus {
+  background: rgba(255, 255, 255, 0.25);
+  outline: none;
+}
+
+/* Hamburger button */
+.hamburger {
+  display: none;
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  width: 60px;
+  height: 60px;
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 12px;
+  padding: 1rem;
+  color: #fff;
+  font-size: 1.5rem;
+  z-index: 1000;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+  border: none;
+  cursor: pointer;
+}
+
+.hamburger:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: scale(1.02);
+}
+
+.hamburger:active,
+.hamburger:focus {
+  background: rgba(255, 255, 255, 0.25);
+  outline: none;
+}
+
+/* Navigation */
 .music-player-nav {
   position: sticky;
   margin: 0 0 1rem 0;
-  shape-outside: inset(0);
   top: 1rem;
   width: 260px;
   left: 1rem;
@@ -64,7 +121,7 @@
 
 .playlist li {
   display: grid;
-  grid-template-columns: 55px 1fr 32px; /* album art | title | play button */
+  grid-template-columns: 55px 1fr 32px;
   align-items: center;
   gap: 0.5rem;
   margin: 0.5rem 0;
@@ -119,6 +176,7 @@
   outline: none;
 }
 
+/* Now Playing */
 .now-playing {
   margin-top: 1rem;
   padding: 0.6rem;
@@ -169,71 +227,19 @@
   100% { width: 100%; }
 }
 
-/* Theme toggle */
-.theme-toggle {
-  position: fixed;
-  top: 1rem;
-  right: 1rem;
-  width: 60px;
-  backdrop-filter: blur(12px);
-  background: rgba(255, 255, 255, 0.15);
-  border-radius: 12px;
-  padding: 1rem;
-  color: #fff;
-  z-index: 1000;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.2);
-}
-
-.theme-toggle:hover {
-  background: rgba(255, 255, 255, 0.25);
-  transform: scale(1.02);
-  border: none;
-}
-
-.theme-toggle:active,
-.theme-toggle:focus {
-  background: rgba(255, 255, 255, 0.25);
-  outline: none;
-}
-
-/* Main content */
-main {
-  padding: 1rem;
-  position: relative;
-  z-index: 1;           /* keep it above the background */
-  overflow: hidden;
-  width: 100vw;
-}
-
-main h1 {
-  width: 100%;
-  text-align: center;
-}
-
 /* Responsive breakpoint */
 @media (max-width: 662px) {
+  .hamburger {
+    display: block;
+  }
+
   .music-player-nav {
-    padding: 10px;
+    width: 100px;
+    padding-top: 50px;
     background: none;
     border: none;
     box-shadow: none;
-  }
-
-  .music-player-nav .hamburger {
-    display: block;
-    border: none;
-  }
-
-  .hamburger:hover {
-    background: rgba(255, 255, 255, 0.25);
-    transform: scale(1.02);
-    border: none;
-  }
-  
-  .hamburger:active,
-  .hamburger:focus {
-    background: rgba(255, 255, 255, 0.25);
-    outline: none;
+    backdrop-filter: none;
   }
 
   .music-player-nav .playlist {
@@ -247,19 +253,14 @@ main h1 {
     display: flex;
   }
 
-  .now-playing {
-    display: none;
-  }
-
-  .player-header {
-    display: none;
-  }
-
-  .play-btn {
-    display: none;
-  }
-
+  .now-playing,
+  .player-header,
+  .play-btn,
   .album-art {
     display: none;
+  }
+
+  main {
+    font-size: 12px;
   }
 }
