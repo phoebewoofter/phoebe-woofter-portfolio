@@ -1,0 +1,63 @@
+.impulse-page {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    backdrop-filter: blur(8px);
+    color: #fff;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  }
+
+  .impulse {
+    height: auto;
+    max-width: 100%;
+    display: block;
+    object-fit: contain;
+  }
+  
+  .impulse-page h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  
+  .impulse-page h2 {
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    cursor: pointer;
+  }
+  
+  .external-link {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #a691f2;
+    text-decoration: underline;
+  }
+  
+  .collapsible-header:hover {
+    color: #e794df;
+    transition: color 0.3s ease;
+  }
+  
+  .collapsible-content {
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+  }
+
+  .collapsible-content li {
+    list-style: none;
+  }
+  
+  .tech-icons {
+    max-width: 100%;
+    margin-top: 0.5rem;
+  }
+  
+  pre {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 1rem;
+    border-radius: 8px;
+    overflow-x: auto;
+  }
+  
