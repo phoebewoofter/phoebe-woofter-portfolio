@@ -1,0 +1,39 @@
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+a:hover { 
+    color: white;
+    transform: scale(1.2);
+}
+
+.contact-info { 
+    z-index: 5; 
+    display: flex; 
+    gap: 1rem; 
+    justify-content: center; 
+    list-style: none; 
+    padding: 0; 
+    position: relative; 
+    z-index: 999; 
+    margin: 0; 
+} 
+.contact-info li { 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+} 
+.contact-info span { 
+    display: inline-block; 
+    height: 100px; 
+    width: 100px; 
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-color: transparent; 
+}
