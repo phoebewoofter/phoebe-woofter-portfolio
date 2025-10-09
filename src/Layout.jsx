@@ -47,7 +47,7 @@ export default function Layout() {
         style={{ backgroundImage: `url(${theme === 'light' ? dayBg : nightBg})` }}
       />
       </AnimatePresence>
-
+    <div className="nav-and-body">
       {/* Navigation */}
       <nav className="music-player-nav">
         <div className="player-header">Phoebe’s Playlist</div>
@@ -98,6 +98,7 @@ export default function Layout() {
       <main>
         <Outlet />
       </main>
+      </div>
     </div>
   );
 }

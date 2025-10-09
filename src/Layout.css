@@ -11,6 +11,11 @@
   z-index: -1;          /* sit behind all other content */
 }
 
+.nav-and-body {
+  display: flex;
+  gap: 2rem;
+}
+
 .navbar {
   display: flex;
   gap: 1rem;
@@ -18,7 +23,6 @@
 }
 
 .music-player-nav {
-  float: left;
   position: sticky;
   margin: 0 0 1rem 0;
   shape-outside: inset(0);
@@ -187,8 +191,10 @@ main {
   position: relative;
   z-index: 1;           /* keep it above the background */
   overflow: hidden;
+  width: 100vw;
 }
 
 main h1 {
+  width: 100%;
   text-align: center;
 }
