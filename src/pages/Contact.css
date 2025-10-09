@@ -37,3 +37,14 @@ a:hover {
     background-position: center; 
     background-color: transparent; 
 }
+
+@media (max-width: 662px) {
+    .contact-info {
+        flex-direction: column;
+    }
+
+    .contact-info span {
+        height: 65px;
+        width: 65px;
+    }
+}

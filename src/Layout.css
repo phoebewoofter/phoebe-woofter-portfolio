@@ -229,6 +229,11 @@ main h1 {
 
 /* Responsive breakpoint */
 @media (max-width: 662px) {
+
+  .nav-and-body {
+    display: inline-block;
+  }
+
   .hamburger {
     display: block;
   }
@@ -245,13 +250,18 @@ main h1 {
   .music-player-nav .playlist {
     display: none;
     flex-direction: column;
-    gap: 10px;
+    gap: 0;
     margin-top: 1rem;
   }
 
   .music-player-nav.open .playlist {
     display: flex;
   }
+
+  .music-player-nav.open a {
+    font-size: 12px;
+  }
+  
 
   .now-playing,
   .player-header,
@@ -260,7 +270,12 @@ main h1 {
     display: none;
   }
 
-  main {
-    font-size: 12px;
+  main p {
+    font-size: 16px;
   }
+
+  main h1 {
+    font-size: 20px;
+  }
+
 }
