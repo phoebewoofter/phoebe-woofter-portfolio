@@ -17,6 +17,7 @@ import "./Layout.css";
 export default function Layout() {
   const [theme, setTheme] = useState("light");
   const location = useLocation();
+  const [menuOpen, setMenuOpen] = useState(false);
 
   const toggleTheme = () => {
     setTheme(theme === "light" ? "dark" : "light");
@@ -49,7 +50,8 @@ export default function Layout() {
       </AnimatePresence>
     <div className="nav-and-body">
       {/* Navigation */}
-      <nav className="music-player-nav">
+      <nav className={`music-player-nav ${menuOpen ? 'open' : ''}`}>
+        <button className="hamburger" aria-label="Toggle menu" onClick={() => setMenuOpen(prev => !prev)}>☰</button>
         <div className="player-header">Phoebe’s Playlist</div>
         <ul className="playlist">
           <li>

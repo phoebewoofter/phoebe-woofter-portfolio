@@ -16,6 +16,17 @@
   gap: 2rem;
 }
 
+/* Hamburger button */
+.music-player-nav .hamburger {
+  display: none;
+  font-size: 1.5rem;
+  background: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
 .navbar {
   display: flex;
   gap: 1rem;
@@ -197,4 +208,58 @@ main {
 main h1 {
   width: 100%;
   text-align: center;
+}
+
+/* Responsive breakpoint */
+@media (max-width: 662px) {
+  .music-player-nav {
+    padding: 10px;
+    background: none;
+    border: none;
+    box-shadow: none;
+  }
+
+  .music-player-nav .hamburger {
+    display: block;
+    border: none;
+  }
+
+  .hamburger:hover {
+    background: rgba(255, 255, 255, 0.25);
+    transform: scale(1.02);
+    border: none;
+  }
+  
+  .hamburger:active,
+  .hamburger:focus {
+    background: rgba(255, 255, 255, 0.25);
+    outline: none;
+  }
+
+  .music-player-nav .playlist {
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 1rem;
+  }
+
+  .music-player-nav.open .playlist {
+    display: flex;
+  }
+
+  .now-playing {
+    display: none;
+  }
+
+  .player-header {
+    display: none;
+  }
+
+  .play-btn {
+    display: none;
+  }
+
+  .album-art {
+    display: none;
+  }
 }
