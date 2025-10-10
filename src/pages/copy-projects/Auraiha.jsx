@@ -45,7 +45,7 @@ export default function Auraiha() {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6 }}
     >
-      <h1>auraiha ✨</h1>
+      <h1>auraiha</h1>
       <h3 className="tagline">Beyond skincare, better than makeup…</h3>
 
       {/* Overview */}
@@ -137,17 +137,61 @@ export default function Auraiha() {
         <AnimatePresence>
           {expanded.product && (
             <motion.div className="collapsible-content">
-              <img src={mistingImg} alt="Misting product" />
-              <h4>Multi‑Purpose Mist</h4>
-              <p>
-                Experience hours of hydration with a single spritz. A toner,
-                refreshing mist, and setting spray in one.
+              <img src={mistingImg} alt="Misting product" className="product-img"/>
+              <h3>naturally luminous mist and set spray</h3>
+              <h4>a multi-purpose mist for less money and more results</h4>
+              <p>experience hours of hydration with a single spritz
+              <br/>
+              <br/>
+              <span style={{fontWeight: 'bold' }}>what:</span> a facial toner, refreshing mist, and setting spray. this powerful blend of papaya, witch hazel, hydrating elixir, and betaine locks in moisture, enhancing your natural glow.
+              <br/>
+              <br/>
+              <span style={{fontWeight: 'bold' }}>why:</span> would you buy three products if you could buy just one? less research and less money for more results. naturally luminous mist & set spray puts your skin first while enhancing your glow. its clean ingredients work together to tone and refresh your skin, lock in moisture, and set your makeup.  
+              <br/>
+              <br/>
+              <span style={{fontWeight: 'bold' }}>where:</span> face, neck, and chest
+              <br/>
+              <br/>
+              <span style={{fontWeight: 'bold' }}>how:</span> hold about 6 inches from face, close eyes, then gently press down to spray. repeat whenever you need a refresh
+              <br/>
+              <br/>
+              <span style={{fontWeight: 'bold' }}>if you want to use as a toner...</span>
+              <br/>
+              apply after cleanser with a single spritz. leave to dry or pat with a reusable facial pad. your pores will tighten and be prepared to absorb your brightening serum (or any other skincare product). 
+              <br/>
+              <br/>
+              <span style={{fontWeight: 'bold' }}>if you want to use as a refreshing mist…</span>
+              <br/>
+              apply throughout the day with a single spritz as needed. 
+              <br/>
+              <br/>
+              <span style={{fontWeight: 'bold'}}>if you want to use as a setting spray…</span>
+              <br/>
+              apply under or over makeup with a single spritz. leave to dry. 
+              <br/>
+              <br/>
+              <span style={{fontWeight: 'bold'}}>*pro tip for dry skin: apply under makeup to help blend your foundation and get rid of flakey or rough textures.</span>
               </p>
-              <img src={serumImg} alt="Serum product" />
-              <h4>Superfood Serum</h4>
+              <img src={serumImg} alt="Serum product" className="product-img"/>
+              <h3>glass face brightening serum</h3>
+              <h4>a superfood serum for a glass-like finish</h4>
               <p>
-                Gentle exfoliation, instant results. A blend of squalane, AHA
-                fruit acids, aloe, green tea & cucumber for a glass‑like finish.
+                gentle exfoliation, instant results
+                <br/>
+                <br/>
+                <span style={{fontWeight: 'bold' }}>what:</span> a unique mixture of squalane, AHA fruit acids, aloe, green tea & cucumber.
+                <br/>
+                <br/>
+                <span style={{fontWeight: 'bold' }}>when:</span> apply twice daily, once in the morning and at night; before moisturizing or after cleansing for soft glowing skin
+                <br/>
+                <br/>
+                <span style={{fontWeight: 'bold' }}>why:</span> using minimal ingredients with easy-to-understand benefits, this plant-based emollient is intensely moisturizing. it’s also suitable for sensitive and blemish-prone skin. the AHA fruit acids gently exfoliate the outermost layer of the skin. with regular use, glass face brightening serum will give you glowing skin. why cover your face with foundation when your skin glows? and say goodbye to highlighter.
+                <br/>
+                <br/>
+                <span style={{fontWeight: 'bold' }}>where:</span> face, neck, and chest
+                <br/>
+                <br/>
+                <span style={{fontWeight: 'bold' }}>how:</span> one pump onto clean, almost dry skin. always apply in an upward motion until absorbed by the skin.
               </p>
             </motion.div>
           )}

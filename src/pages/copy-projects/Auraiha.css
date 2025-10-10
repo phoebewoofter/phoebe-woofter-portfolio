@@ -19,7 +19,7 @@
     text-align: center;
     font-style: italic;
     margin-bottom: 2rem;
-    color: #e794df;
+    color: white;
   }
   
   .collapsible-header {
@@ -44,6 +44,11 @@
     margin: 0.5rem 0;
   }
   
+  .product-img {
+    height: 200px;
+    width: 200px;
+  }
+
   blockquote {
     font-style: italic;
     border-left: 3px solid #a691f2;
@@ -51,3 +56,9 @@
     color: #ddd;
   }
   
+  @media (max-width: 662px) {
+    .product-img {
+        height: 100px;
+        width: 100px;
+    }
+  }
