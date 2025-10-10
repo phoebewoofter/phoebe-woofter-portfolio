@@ -4,6 +4,7 @@ import "./PhotoPlayer.css";
 import honeycomb from "./assets/about-me/honeycomb.jpg";
 import pancho from "./assets/about-me/pancho.jpeg";
 import suh from "./assets/about-me/suh.jpeg";
+import boiz from "./assets/about-me/the-boiz.jpeg";
 import pause from "./assets/pause.png";
 import play from "./assets/play.png";
 import skip from "./assets/skip.png";
@@ -12,6 +13,7 @@ const photos = [
   { src: honeycomb, caption: "Honeycomb" },
   { src: pancho, caption: "Pancho" },
   { src: suh, caption: "Suh" },
+  { src: boiz, caption: "Our babies" },
 ];
 
 export default function PhotoPlayer() {
