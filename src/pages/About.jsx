@@ -1,5 +1,6 @@
 import React from "react";
 import './About.css';
+import PhotoPlayer from "../PhotoPlayer";
 
 export default function About() {
   return (
@@ -12,6 +13,7 @@ export default function About() {
         <br/>
         Alongside my copywriting career, I’m also building a foundation in software development. On my GitHub, you’ll find projects that reflect my curiosity for front‑end development and gamification — from HTML/CSS practice to mapping out interactive tools that make complex topics more engaging. I’m currently learning TypeScript, sharpening my skills in user‑centered design, and exploring how code and copy can work together to create intuitive, conversion‑friendly digital experiences.<br/><br/>
         Aside from my work, my life includes playing with my three cats, Suh, Honeycomb, and Pancho, traveling with my partner, training for marathons, skate skiing, gaming, and more!</p>
+        <PhotoPlayer/>
     </div>
   );
 }
