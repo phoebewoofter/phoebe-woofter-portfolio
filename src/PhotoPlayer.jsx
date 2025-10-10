@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import "./PhotoPlayer.css";
 
-import honeycomb from "./assets/about-me/honeycomb.jpg";
+import honeycomb from "./assets/about-me/honeycomb.JPG";
 import pancho from "./assets/about-me/pancho.jpeg";
 import suh from "./assets/about-me/suh.jpeg";
 import boiz from "./assets/about-me/the-boiz.jpeg";
