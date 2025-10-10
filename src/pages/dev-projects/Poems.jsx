@@ -24,7 +24,7 @@ export default function PoemGenerator() {
       transition={{ duration: 0.6 }}
     >
 
-      <h1>Which Emily Dickinson Poem Are You?</h1>
+      <h1>Which Emily Dickinson Poem Are You? 📜</h1>
       <p>
         A simple random Emily Dickinson poem generator. It fetches an array of
         poems from <code>poetrydb.org</code> and randomly selects one to display.
