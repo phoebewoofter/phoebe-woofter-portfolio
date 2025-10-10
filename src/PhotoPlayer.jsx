@@ -25,11 +25,11 @@ const photos = [
   { src: me, caption: "Me" },
   { src: vietnamTwo, caption: "My partner and me in cafe in Vietnam" },
   { src: vietnamOne, caption: "My partner walking along the train street in Hanoi" },
-  { src: vietnamThree, caption: "Garden in Hanoi" },
+  { src: vietnamThree, caption: "Aarden in Hanoi" },
   { src: vietnamFour, caption: "A church in Hanoi at night" },
   { src: vietnamSix, caption: "My partner and me in Ha Long Bay" },
   { src: canmore, caption: "My dad and me skate skiing in Canmore" },
-  { src: cincoDeMayo, caption: "Half marathon finish line" },
+  { src: cincoDeMayo, caption: "My second half marathon finish line" },
 ];
 
 export default function PhotoPlayer() {
