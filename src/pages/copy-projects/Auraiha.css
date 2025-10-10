@@ -1,0 +1,53 @@
+.auraiha-page {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    backdrop-filter: blur(8px);
+    color: #fff;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+  }
+  
+  .auraiha-page h1 {
+    text-align: center;
+    font-size: 2.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .tagline {
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 2rem;
+    color: #e794df;
+  }
+  
+  .collapsible-header {
+    cursor: pointer;
+    margin-top: 1.5rem;
+    font-size: 1.3rem;
+    transition: color 0.3s ease;
+  }
+  
+  .collapsible-header:hover {
+    color: #a691f2;
+  }
+  
+  .collapsible-content {
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+  }
+  
+  .collapsible-content img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin: 0.5rem 0;
+  }
+  
+  blockquote {
+    font-style: italic;
+    border-left: 3px solid #a691f2;
+    padding-left: 1rem;
+    color: #ddd;
+  }
+  
