@@ -5,6 +5,14 @@ import honeycomb from "./assets/about-me/honeycomb.jpg";
 import pancho from "./assets/about-me/pancho.jpeg";
 import suh from "./assets/about-me/suh.jpeg";
 import boiz from "./assets/about-me/the-boiz.jpeg";
+import me from "./assets/about-me/me.jpg";
+import vietnamOne from "./assets/about-me/vietnam-1.jpeg";
+import vietnamTwo from "./assets/about-me/vietnam-2.jpeg";
+import vietnamThree from "./assets/about-me/vietnam-3.jpeg";
+import vietnamFour from "./assets/about-me/vietnam-4.jpeg";
+import vietnamSix from "./assets/about-me/vietnam-6.jpeg";
+import canmore from "./assets/about-me/canmore.jpeg";
+import cincoDeMayo from "./assets/about-me/cinco-de-mayo.jpg";
 import pause from "./assets/pause.png";
 import play from "./assets/play.png";
 import skip from "./assets/skip.png";
@@ -14,6 +22,14 @@ const photos = [
   { src: pancho, caption: "Pancho" },
   { src: suh, caption: "Suh" },
   { src: boiz, caption: "Our babies" },
+  { src: me, caption: "Me" },
+  { src: vietnamTwo, caption: "My partner and me in cafe in Vietnam" },
+  { src: vietnamOne, caption: "My partner walking along the train street in Hanoi" },
+  { src: vietnamThree, caption: "Garden in Hanoi" },
+  { src: vietnamFour, caption: "A church in Hanoi at night" },
+  { src: vietnamSix, caption: "My partner and me in Ha Long Bay" },
+  { src: canmore, caption: "My dad and me skate skiing in Canmore" },
+  { src: cincoDeMayo, caption: "Half marathon finish line" },
 ];
 
 export default function PhotoPlayer() {
