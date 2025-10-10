@@ -67,7 +67,7 @@ export default function Impulse() {
         {expanded.tech && (
           <div className="collapsible-content">
             <img
-              src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github,storybook&perline=7"
+              src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github&perline=7"
               alt="Tech stack"
               className="tech-icons"
             />
