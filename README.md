@@ -11,6 +11,14 @@ This portfolio highlights my dual career path:
 
 ---
 
+## 🎶 Design & Theme
+This portfolio is designed with a **music player aesthetic**:
+- The **navigation bar** is styled like a digital music player, giving the site a playful, interactive feel.  
+- The **About Me** section includes a custom **Photo Player**, modeled after an iPod/music player interface. It cycles through personal photos with play, pause, and skip buttons.  
+- All **icons** (play, pause, skip, and menu icons) are **hand‑drawn**, and the **backgrounds** are also hand‑illustrated, adding a personal, artistic touch that blends design with storytelling.  
+
+---
+
 ## 👩‍💻 About Me
 I’m a Portland‑based **copywriter** with five years of professional experience and a **B.A. in English** from the University of San Diego.  
 
