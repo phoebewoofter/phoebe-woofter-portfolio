@@ -1,16 +1,40 @@
-# React + Vite
+# 🌟 Phoebe Woofter's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio built with **React + Vite**, showcasing both **copywriting** and **software development** projects.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📖 Overview
+This portfolio highlights my dual career path:
+- **Copywriting**: Professional work across email marketing, landing pages, campaigns, blogs, style guides, brochures, and social media.
+- **Software Development**: Front‑end projects that explore interactivity, gamification, and user‑centered design.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👩‍💻 About Me
+I’m a Portland‑based **copywriter** with five years of professional experience and a **B.A. in English** from the University of San Diego.  
 
-## Expanding the ESLint configuration
+My work spans industries from architecture and wellness to publishing and retail. Whether it’s a punchy headline, a long‑form article, or a conversion‑driven email sequence, I focus on creating copy that connects authentically while driving measurable results.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Alongside my copywriting career, I’m building a foundation in **software development**. On my GitHub, you’ll find projects that reflect my curiosity for front‑end development and gamification — from HTML/CSS practice to interactive tools that make complex topics more engaging.  
+
+I’m currently:
+- Learning **TypeScript**
+- Sharpening skills in **user‑centered design**
+- Exploring how **code + copy** can create intuitive, conversion‑friendly digital experiences
+
+Outside of work, I enjoy running marathons, skate skiing, gaming, traveling with my partner, and hanging out with my three cats — Suh, Honeycomb, and Pancho 🐾.
+
+---
+## 🛠️ Tech Stack
+Framer Motion
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github,vite,netlify&perline=7)
+
+---
+## 📬 Contact
+- Portfolio: phoebe-woofter-portfolio.netlify.app
+- GitHub: @phoebewoofter
+- LinkedIn: Phoebe Woofter
+
+
