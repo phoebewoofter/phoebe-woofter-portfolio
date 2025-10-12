@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import "./Standard.css";
-
-// import your screenshots here, e.g.:
 import arom from "../../assets/standard/arom.jpeg";
 import digitalSolutions from "../../assets/standard/digital-solutions.jpeg";
 import disabilityManagement from "../../assets/standard/disability-management.jpeg";
