@@ -1,0 +1,76 @@
+.standard-page {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    backdrop-filter: blur(8px);
+    color: #fff;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  }
+  
+  .standard-page h1 {
+    text-align: center;
+    font-size: 2.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .tagline {
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 2rem;
+    color: white;
+  }
+  
+  .collapsible-header {
+    cursor: pointer;
+    margin-top: 1.5rem;
+    font-size: 1.3rem;
+    transition: color 0.3s ease;
+  }
+  
+  .collapsible-header:hover {
+    color: #a691f2;
+  }
+  
+  .collapsible-content {
+    margin-top: 0.5rem;
+    padding-left: 1rem;
+  }
+  
+  .collapsible-content img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin: 0.5rem 0;
+  }
+
+  .social-media {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;        
+    justify-content: center;
+  }
+
+  .social-post {
+    flex: 1 1 calc(25% - 1rem);
+    min-width: 220px;           /* ensures they don’t shrink too small */
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    text-align: center;
+  }
+  
+  @media (max-width: 662px) {
+    .collapsible-content img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .post {
+      flex: 1 1 100%;
+    }
+  }
+  
