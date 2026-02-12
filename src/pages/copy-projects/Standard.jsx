@@ -20,6 +20,7 @@ import reachTheBeach from "../../assets/standard/reach-the-beach.jpeg";
 import securian from "../../assets/standard/securian.png";
 import socialToolkit from "../../assets/standard/social-media-toolkit.jpeg";
 import socialMediaToolkit from "../../assets/standard/social-media-toolkit-cont.jpeg";
+import proam from "../../assets/standard/proam.jpeg";
 
 export default function TheStandard() {
   const [expanded, setExpanded] = useState({
@@ -94,6 +95,7 @@ export default function TheStandard() {
             <motion.div className="collapsible-content">
               <p>Crafted ad copy that balanced empathy with clarity, ensuring campaigns resonated with audiences while driving conversions.
               </p>
+              <img src={proam} alt="ProAM ad"/>
               <img src={iaTradeshow} alt="IA tradeshow ad"/>
               <img src={napa} alt="NAPA blackbook ad"/>
             </motion.div>
