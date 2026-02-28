@@ -6,7 +6,7 @@ export default function About() {
   return (
     <div>
       <h1>About Me</h1>
-        <p className="about-section">I’m a Portland‑based copywriter with five years of professional experience and a B.A. in English from the University of San Diego. My work spans email marketing, landing pages, campaigns, blogs, style guides, brochures, social media, and more — always with an eye toward blending storytelling with strategy.
+        <p className="about-section">I’m a Portland‑based copywriter with several years of professional experience and a B.A. in English from the University of San Diego. My work spans email marketing, landing pages, campaigns, blogs, style guides, brochures, social media, and more — always with an eye toward blending storytelling with strategy.
         <br/><br/>
         I’ve partnered with brands across industries, from architecture and wellness to publishing and retail. Whether I’m crafting a punchy headline, a long‑form article, or a conversion‑driven email sequence, I focus on creating copy that connects authentically with its audience while driving measurable results.
         <br/>
