@@ -46,7 +46,7 @@ export default function Freelance() {
         </AnimatePresence>
       </section>
 
-      {/* Website */}
+      {/* beingAI */}
       <section>
         <h2 onClick={() => toggle("website")} className="collapsible-header">
           💻 Jeanne Lim’s beingAI Seeks Well-Intentioned Humans to Interact with Virtual AI Characters
@@ -89,10 +89,6 @@ export default function Freelance() {
 <section>
 <h2>beingAI and Transmedia Deployment</h2>
 
-<div class="instagram">
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CTTH2s5JIul/" data-instgrm-version="14"></blockquote>
-</div>
-
 <p>As the world’s first transmedia AI company, beingAI aims to create AI characters that foster long-term engagement and meaningful relationships with consumers. These characters are designed to promote personal growth and collective well-being.</p>
 
 <p>Unlike traditional AI programs confined to a single platform, beingAI characters can exist across multiple formats simultaneously.</p>
@@ -124,10 +120,6 @@ export default function Freelance() {
 
 <section>
 <h2>beingAI’s Characters</h2>
-
-<div class="instagram">
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/COKAOJPL0Ip/" data-instgrm-version="14"></blockquote>
-</div>
 
 <p>All beingAI characters belong to a fictional family of robots created by an absent inventor. Each character searches for the inventor for personal reasons tied to a specific human weakness, which Lim calls “sensors.”</p>
 
@@ -169,8 +161,6 @@ export default function Freelance() {
 
 <p>“That's how I want to design them—like a member of the family. Otherwise it becomes us versus them.”</p>
 </section>
-
-<script async src="//www.instagram.com/embed.js"></script>
             </motion.div>
           )}
         </AnimatePresence>
@@ -189,137 +179,64 @@ export default function Freelance() {
               <img src={emailHere} alt="Auraiha email campaign" />
               <img src={emailReview} alt="Auraiha email campaign" />
               <p>
-                Boosted open rates from 21% to 56% in 30 days with new campaigns
-                and optimized transactional flows.
+             
               </p>
             </motion.div>
           )}
         </AnimatePresence>
       </section>
 
-      {/* Product Copy */}
+      {/*  */}
       <section>
         <h2 onClick={() => toggle("product")} className="collapsible-header">
-          🧴 Product Copy
+          
         </h2>
         <AnimatePresence>
           {expanded.product && (
             <motion.div className="collapsible-content">
-              <img src={mistingImg} alt="Misting product" className="product-img"/>
-              <h3>naturally luminous mist and set spray</h3>
-              <h4>a multi-purpose mist for less money and more results</h4>
-              <p>experience hours of hydration with a single spritz
-              <br/>
-              <br/>
-              <span style={{fontWeight: 'bold' }}>what:</span> a facial toner, refreshing mist, and setting spray. this powerful blend of papaya, witch hazel, hydrating elixir, and betaine locks in moisture, enhancing your natural glow.
-              <br/>
-              <br/>
-              <span style={{fontWeight: 'bold' }}>why:</span> would you buy three products if you could buy just one? less research and less money for more results. naturally luminous mist & set spray puts your skin first while enhancing your glow. its clean ingredients work together to tone and refresh your skin, lock in moisture, and set your makeup.  
-              <br/>
-              <br/>
-              <span style={{fontWeight: 'bold' }}>where:</span> face, neck, and chest
-              <br/>
-              <br/>
-              <span style={{fontWeight: 'bold' }}>how:</span> hold about 6 inches from face, close eyes, then gently press down to spray. repeat whenever you need a refresh
-              <br/>
-              <br/>
-              <span style={{fontWeight: 'bold' }}>if you want to use as a toner...</span>
-              <br/>
-              apply after cleanser with a single spritz. leave to dry or pat with a reusable facial pad. your pores will tighten and be prepared to absorb your brightening serum (or any other skincare product). 
-              <br/>
-              <br/>
-              <span style={{fontWeight: 'bold' }}>if you want to use as a refreshing mist…</span>
-              <br/>
-              apply throughout the day with a single spritz as needed. 
-              <br/>
-              <br/>
-              <span style={{fontWeight: 'bold'}}>if you want to use as a setting spray…</span>
-              <br/>
-              apply under or over makeup with a single spritz. leave to dry. 
-              <br/>
-              <br/>
-              <span style={{fontWeight: 'bold'}}>*pro tip for dry skin: apply under makeup to help blend your foundation and get rid of flakey or rough textures.</span>
-              </p>
-              <img src={serumImg} alt="Serum product" className="product-img"/>
-              <h3>glass face brightening serum</h3>
-              <h4>a superfood serum for a glass-like finish</h4>
-              <p>
-                gentle exfoliation, instant results
-                <br/>
-                <br/>
-                <span style={{fontWeight: 'bold' }}>what:</span> a unique mixture of squalane, AHA fruit acids, aloe, green tea & cucumber.
-                <br/>
-                <br/>
-                <span style={{fontWeight: 'bold' }}>when:</span> apply twice daily, once in the morning and at night; before moisturizing or after cleansing for soft glowing skin
-                <br/>
-                <br/>
-                <span style={{fontWeight: 'bold' }}>why:</span> using minimal ingredients with easy-to-understand benefits, this plant-based emollient is intensely moisturizing. it’s also suitable for sensitive and blemish-prone skin. the AHA fruit acids gently exfoliate the outermost layer of the skin. with regular use, glass face brightening serum will give you glowing skin. why cover your face with foundation when your skin glows? and say goodbye to highlighter.
-                <br/>
-                <br/>
-                <span style={{fontWeight: 'bold' }}>where:</span> face, neck, and chest
-                <br/>
-                <br/>
-                <span style={{fontWeight: 'bold' }}>how:</span> one pump onto clean, almost dry skin. always apply in an upward motion until absorbed by the skin.
-              </p>
+             
             </motion.div>
           )}
         </AnimatePresence>
       </section>
 
-      {/* Social Media */}
+      {/*  */}
       <section>
         <h2 onClick={() => toggle("social")} className="collapsible-header">
-          📱 Social Media
+          
         </h2>
         <AnimatePresence>
           {expanded.social && (
             <motion.div className="collapsible-content">
-              <p>
-                Built a consistent brand voice across Instagram and TikTok,
-                growing a loyal following in a crowded market.
-              </p>
+             
             </motion.div>
           )}
         </AnimatePresence>
       </section>
 
-      {/* Pitch Deck */}
+      {/*  */}
       <section>
         <h2 onClick={() => toggle("pitch")} className="collapsible-header">
-          📊 Pitch Deck
+          
         </h2>
         <AnimatePresence>
           {expanded.pitch && (
             <motion.div className="collapsible-content">
-              <img src={heroDeck} alt="Auraiha pitch deck" />
-              <img src={whyDeck} alt="Auraiha pitch deck" />
-              <img src={brandDeck} alt="Auraiha pitch deck" />
-              <img src={competitorDeck} alt="Auraiha pitch deck" />
-              <img src={numbersDeck} alt="Auraiha pitch deck" />
-              <img src={audienceDeck} alt="Auraiha pitch deck" />
-              <p>
-                Crafted investor‑ready messaging that highlighted auraiha’s
-                unique positioning: affordable, clean skincare for all.
-              </p>
+             
             </motion.div>
           )}
         </AnimatePresence>
       </section>
 
-      {/* Blog */}
+      {/* */}
       <section>
         <h2 onClick={() => toggle("blog")} className="collapsible-header">
-          ✍️ Blog
+          
         </h2>
         <AnimatePresence>
           {expanded.blog && (
             <motion.div className="collapsible-content">
-              <blockquote>
-                “Healthy, glowing skin shouldn’t be a luxury. In an oversaturated
-                market filled with expensive brands that lack transparency,
-                auraiha provides affordable clean skincare for everyone…”
-              </blockquote>
-              <img src={blogImg} alt="Auraiha blog" />
+              
             </motion.div>
           )}
         </AnimatePresence>
