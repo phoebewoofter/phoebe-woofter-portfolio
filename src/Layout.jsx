@@ -23,7 +23,7 @@ export default function Layout() {
   // Map routes to display names
   const routeNames = {
     "/": "Home",
-    "/copywriting": "Copywriting",
+    "/writing": "Writing",
     "/dev": "Dev",
     "/about": "About",
     "/contact": "Contact"
@@ -58,8 +58,8 @@ export default function Layout() {
           </li>
 
           <li>
-            <span className="album-art" style={{ backgroundImage: `url(${copywriting})` }}></span>
-            <Link to="/copywriting">Copywriting</Link>
+            <span className="album-art" style={{ backgroundImage: `url(${writing})` }}></span>
+            <Link to="/copywriting">Writing</Link>
             <Link to="/copywriting" className="play-btn" style={{ backgroundImage: `url(${play})` }} />
           </li>
 
