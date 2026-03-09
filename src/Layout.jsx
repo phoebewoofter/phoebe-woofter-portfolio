@@ -8,7 +8,7 @@ import email from './assets/email.png';
 import play from './assets/play.png';
 import home from './assets/home.png';
 import about from './assets/about.png';
-import copywriting from './assets/copywriting.png';
+import writing from './assets/copywriting.png';
 import "./Layout.css";
 
 export default function Layout() {
