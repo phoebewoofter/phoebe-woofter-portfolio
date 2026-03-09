@@ -59,8 +59,8 @@ export default function Layout() {
 
           <li>
             <span className="album-art" style={{ backgroundImage: `url(${writing})` }}></span>
-            <Link to="/copywriting">Writing</Link>
-            <Link to="/copywriting" className="play-btn" style={{ backgroundImage: `url(${play})` }} />
+            <Link to="/writing">Writing</Link>
+            <Link to="/writing" className="play-btn" style={{ backgroundImage: `url(${play})` }} />
           </li>
 
           <li>
