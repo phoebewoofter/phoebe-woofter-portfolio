@@ -10,7 +10,6 @@ export default function Copywriting() {
       <p>Here you’ll find an example of my brand copywriting work and my long-form work.</p>
       <Auraiha/>
       <p>More work available upon request to comply with current employer's copyright practices.</p>
-      <Freelance/>
     </div>
   );
 }
