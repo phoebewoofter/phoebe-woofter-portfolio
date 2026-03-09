@@ -49,7 +49,7 @@ export default function Freelance() {
       {/* Website */}
       <section>
         <h2 onClick={() => toggle("website")} className="collapsible-header">
-          💻 Jeann Lim
+          💻 Jeanne Lim’s beingAI Seeks Well-Intentioned Humans to Interact with Virtual AI Characters
         </h2>
         <AnimatePresence>
           {expanded.website && (
@@ -59,11 +59,6 @@ export default function Freelance() {
               animate={{ opacity: 1, height: "auto" }}
               exit={{ opacity: 0, height: 0 }}
             >
-              <article class="portfolio-article">
-
-<header>
-<h1>Jeanne Lim’s beingAI Seeks Well-Intentioned Humans to Interact with Virtual AI Characters</h1>
-</header>
 
 <section>
 <p>Creators of science fiction narratives in books, movies, and television often depict artificial intelligence (AI) as a threat to human autonomy. Once robots attain consciousness, what is to stop them from overthrowing us as a species? Fear about our technological future dominates many mainstream conversations about artificial intelligence.</p>
@@ -174,8 +169,6 @@ export default function Freelance() {
 
 <p>“That's how I want to design them—like a member of the family. Otherwise it becomes us versus them.”</p>
 </section>
-
-</article>
 
 <script async src="//www.instagram.com/embed.js"></script>
             </motion.div>
