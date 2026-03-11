@@ -10,13 +10,13 @@
   }
   
   .freelance-page h1 {
-    text-align: center;
+    text-align: left;
     font-size: 2.2rem;
     margin-bottom: 0.5rem;
   }
   
   .tagline {
-    text-align: center;
+    text-align: left;
     font-style: italic;
     margin-bottom: 2rem;
     color: white;

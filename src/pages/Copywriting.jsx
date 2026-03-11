@@ -1,6 +1,7 @@
 import React from "react";
 import Auraiha from "./copy-projects/Auraiha";
 import Freelance from "./copy-projects/Freelance";
+import Personal from "./copy-projects/Personal";
 import TheStandard from "./copy-projects/Standard";
 
 export default function Copywriting() {
@@ -11,6 +12,7 @@ export default function Copywriting() {
       <Auraiha/>
       <p>More copyriting work available upon request to comply with current employer's copyright practices.</p>
       <Freelance/>
+      <Personal/>
     </div>
   );
 }
