@@ -24,8 +24,8 @@ export default function Personal() {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6 }}
     >
-      <h1>Editorial</h1>
-      <h3 className="tagline">From my time at a now-disolved online publication called <em>The Millenial Source</em>.</h3>
+      <h1>Personal</h1>
+      <h3 className="tagline">Essays and excerpts from works of fiction.</h3>
 
       {/* Overview */}
       <section>

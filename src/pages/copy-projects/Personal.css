@@ -10,13 +10,13 @@
   }
   
   .personal-page h1 {
-    text-align: left;
+    text-align: center;
     font-size: 2.2rem;
     margin-bottom: 0.5rem;
   }
   
   .tagline {
-    text-align: left;
+    text-align: center;
     font-style: italic;
     margin-bottom: 2rem;
     color: white;
@@ -36,6 +36,7 @@
   .collapsible-content {
     margin-top: 0.5rem;
     padding-left: 1rem;
+    text-align: center;
   }
   
   .collapsible-content img {
