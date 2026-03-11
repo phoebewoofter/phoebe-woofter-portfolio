@@ -499,15 +499,13 @@ Founder, -------</p>
       {/* The Tithing */}
       <section>
         <h2 onClick={() => toggle("product")} className="collapsible-header">
-       The Tithing
+        ⚙️ The Tithing
         </h2>
         <AnimatePresence>
           {expanded.product && (
             <motion.div className="collapsible-content">
 
 <section>
-
-<h2>The Tithing</h2>
 <h3>Summary</h3>
 <p>Below is an excerpt from The Tithing, a sapphic romantasy. Step into Aether, a brass-and-smoke empire, powered by early industrial tech, pneumatic machinery, skyships, and dangerous experimental science hidden beneath propriety and lace.</p>
 <p>Edelweiss Montgomery was raised in the fading quiet of the Gaia Plains, a province long beneath the notice of Aether’s machines. But the empire is tightening its grip. Smog drifts farther each year. Census takers arrive where they never have before. And with them comes the Tithing.</p>
