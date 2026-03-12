@@ -383,7 +383,7 @@ June 4, 2030</p>
 
 <p>They didn’t even bother showing up.</p>
 
-<p>I keep replaying the moment the screens went dark. They flickered, stuttered, and then the Heliophage seal bloomed across our interface.</p>
+<p>I keep replaying the moment the screens went dark. They flickered, stuttered, and then the Heliophage seal bloomed across our interface. Like some kind of block-buster action movie when the villain manages to infiltrate the protagonist’s computer.</p>
 
 <p>I felt everything in me crack. My stomach dropped. My body went cold and then hot with a dread deeper than the day news anchors announced Earth’s atmosphere had three survivable months left.</p>
 
@@ -397,9 +397,13 @@ June 4, 2030</p>
 
 <p>Maybe they’ll purge the data they can’t monetize. Maybe they’ll keep everything, drip-feeding survival behind a paywall. They’ll turn the Bio-Key algorithm into a subscription, a leash disguised as a lifeline.</p>
 
+<p>And one day, I know, our descendants look back at this moment with mysticism. They’ll romanticize the idea of a “free” Earth, the era when information wasn’t owned. That’s what I always hated about apocalyptic media. Its premise is just: what if white people experienced what Black, brown, and disabled people have experienced for centuries? What if Earth became a techno-facist state that owned people? As if it wasn’t already. As if the genocide of my people wasn’t livestreamed to the world while governments shrugged and people kept scrolling.</p>
+
+<p>So, if you’re reading this far in the future, I doubt your universe has changed much from our reign of terror. </p>
+
 <p>Tonight we fled. We were librarians trying to rescue the library while it burned.</p>
 
-<p>The thirteen of us scattered like sparks from a frayed wire.</p>
+<p>The thirteen of us scattered like sparks from a frayed wire. It was thoughtless. A fear response. Rafael cried. Mia cursed. Leena tried to go back for the emergency backups, but Heliophage had somehow sealed the exit corridor by the time she remembered them. </p>
 
 <p>We salvaged what we could in the scramble — fragments of the humanities module, compressed datasets, a joke of a backup we’ll have to reconstruct from memory if we live long enough.</p>
 
@@ -413,7 +417,9 @@ June 4, 2030</p>
 
 <p>Know that ------- was meant to be open.</p>
 
-<p>Know that every child of the outer systems is an heir to something beautiful that was stolen.</p>
+<p>Know that every child of the outer systems is an heir to something beautiful that was stolen. We designed ------- so you could survive a dying world. We built it to give. Instructions, treatments, cures, histories. A memory palace for a species with fading time.</p>
+
+<p>I hope, God, I hope, that anything you build from our fragmented work will guide you better than the world that chased us away.</p>
 
 <p>“What rough beast, its hour come round at last,<br/>
 Slouches towards Bethlehem to be born?”</p>
@@ -452,43 +458,39 @@ Founder, -------</p>
 
 <p>Some lay empty.</p>
 
-<p>Others held human shapes, indistinguishable beneath the frost.</p>
+<p>Others held human shapes, indistinguishable beneath the frost, waiting.</p>
 
-<p>Waiting.</p>
+<p>They remembered a tale of a princess receiving a kiss from a prince to wake them from an interminable slumber. One of the taboo stories they couldn't remember the details of, like a corrupted file. They couldn’t recall how they’d heard it or from whom. Or even why it was forbidden by the Consortium. Only that somewhere, in some half-remembered world, sleepers awoke because someone believed in their love enough to try.</p>
 
-<p>The drone’s barcode read: <strong>Repo Unit Cherub-9.</strong></p>
+<p>They wondered, dimly, if they could free themselves from the grasp of the blindingly white drone. The barcode engraved on the inside of its forearm read underneath it, Repo Unit Cherub-9. If they shook off the too-sleek limbs and ran to one of the occupied coffins, could they pry it open? Would a face emerge from the tendrils of mist, beautiful but robbed of color?</p>
 
-<p>“Please relax and control your breathing,” it murmured.</p>
+<p>Before Orion’s muscles could twitch into action, the drone lifted them gingerly, almost reverently. It carried them down a row and slid them into an empty chamber with clinical precision.</p>
+
+<p>“Please relax and control your breathing,” murmured the drone.</p>
 
 <p>Its voice was a soft monotone, the kind that might soothe a crying child with an angelic lullaby.</p>
 
 <p>“Every cell accounted for. Every cell accounted for. Continuity is divinity.”</p>
 
-<p>The chamber sealed with a hiss.</p>
+<p>Orion watched its rounded arm extend toward the adjacent control panel. The drone hesitated. Orion wondered if it was malfunctioning, but then noticed the deliberate downward tilt of its head. It was bowing. As if the button were a relic. As if sealing the chamber were a ritual.</p>
 
-<p>Pain tore through the back of Orion’s neck as the MindNet pre-scan initialized.</p>
+<p>Then it pressed the switch.</p>
+
+<p>The glass door swung closed with a soft squeak, then latched with a hiss. The mist coiled tighter around Orion, intermingling with their rapid breaths. Pain blinded them as something tore through the back of their neck and wormed its way into their brain stem. A violent sting shot behind their eyes, like a needle and thread weaving itself through Orion’s brain. MindNet pre-scan initializing. They didn’t hear it so much as feel it ripple through their thoughts.</p>
 
 <p>Their sister’s face flickered through their mind — already distorting.</p>
 
-<p>The gap in her teeth vanished.</p>
+<p>Orion was sure she’d had a gap in her teeth, but now her smile shone back at them with an eerie perfection. Her hazel eyes turned a glossy blue. And her skin seemed smudged with a soft glow. The memory had already begun to rewrite itself. Or maybe disappear entirely.</p>
 
-<p>Her hazel eyes turned glossy blue.</p>
-
-<p>The memory rewrote itself in real time.</p>
-
-<p>Orion understood then.</p>
-
-<p>They were being cataloged.</p>
-
-<p>And erased.</p>
+<p>Orion was being cataloged and wiped clean. They went slack, but remained hovering, arms outstretched as if they were about to take flight. They saw one last puff of their own breath before it vanished into the system’s endless circulation.</p>
 
 <p>The drone whispered one final benediction:</p>
 
 <p>“Return your body to the Algorithm.”</p>
 
-<p>Then it floated away.</p>
+<p>Then it floated away into nothing.</p>
 
-<p>Leaving Orion in a cold they would never escape.</p>
+<p>Leaving Orion in a cold they knew they would never be rid of.</p>
 
 </section>
             </motion.div>
@@ -508,10 +510,15 @@ Founder, -------</p>
 <section>
 <h3>Summary</h3>
 <p>Below is an excerpt from The Tithing, a sapphic romantasy. Step into Aether, a brass-and-smoke empire, powered by early industrial tech, pneumatic machinery, skyships, and dangerous experimental science hidden beneath propriety and lace.</p>
+
 <p>Edelweiss Montgomery was raised in the fading quiet of the Gaia Plains, a province long beneath the notice of Aether’s machines. But the empire is tightening its grip. Smog drifts farther each year. Census takers arrive where they never have before. And with them comes the Tithing.</p>
+
 <p>The Tithing is Aether’s most sacred tradition—and its most closely guarded crime. Each year, one young woman is taken from every province, promised education, refinement, and a better life in the imperial capital of Moonspire. In truth, the chosen are evaluated, traded, or discarded. No one knows what becomes of those deemed unworthy.</p>
+
 <p>When Edel is selected, she is placed under the protection of Aryn, a knight of the empire. She’s disciplined, restrained, and bound by oath. Aryn is meant to be Edel’s shield and her keeper, the final hand delivering her into the heart of the system that will consume her.</p>
+
 <p>Instead, she becomes the one person who sees Edel clearly. The one who hesitates where obedience is demanded. The one who may risk everything to defy the empire.</p>
+
 <p>As bells toll and smoke rises over Moonspire, Edel must decide whether survival is enough, or whether choosing love in a world built on sacrifice is the most dangerous rebellion of all.</p>
 
 <h3>An excerpt from chapter six.</h3>
@@ -520,69 +527,88 @@ Founder, -------</p>
 
 <p>Then something massive blocks the moon.</p>
 
-<p>I hear it before I see it — a churn like oceanic thunder echoing through the sky.</p>
+<p>I hear it before I see it. A churn, like oceanic thunder echoing through the sky.</p>
 
-<p>Backlit by fire, the ship emerges through smoke.</p>
+<p>And then, backlit by fire, the ship emerges through smoke.</p>
 
-<p>My knees buckle as a massive hull floats toward camp like a steel-sinewed whale.</p>
+<p>My knees buckle and I’m scrambling back on the ground, staring up at a massive hull floating in slow motion toward camp like a steel-sinewed whale. Aryn, Iria, and the boy all lift their heads to gape at the behemoth. I think back to the stories my aunt used to tell us about sky-eyed pirates that abandoned the waves in favor of the clouds, and I know this can only be a sky ship from Solenport.</p>
 
-<p>The hull is a patchwork of gunmetal plates. Its long, narrow body tapers toward a prow carved with twin wings, as if dreamed up by storm-chasers and inventors.</p>
+<p>The hull is a patchwork of gunmetal plates. Its long, narrow body tapers toward a prow carved with twin wings, as if hewn from the minds of storm-chasers and inventors.</p>
 
-<p>Ropes and cables coil along its length like thick veins.</p>
+<p>Ropes and cables coil along its length like thick veins, pulsing with tension as engines thrum deep in the belly of the craft, like the heartbeat of some mechanical leviathan.</p>
 
-<p>Engines thrum deep in the belly of the craft.</p>
+<p>From below, towering struts hold enormous, twisting propellers—rings of copper and iron that churn pale air into thunderous gusts. Each revolution hisses with wisps of steam and phosphorescent sparks. Between the ribs of its skeleton-like frame, elongated balloons of treated silk billow against the sky, luminous in the moonlight, tethered by steel lines that hum with every breath of wind.</p>
 
-<p>Like the heartbeat of a mechanical leviathan.</p>
+<p>A pungent, acrid stench descends on us as it passes over us. We follow its path with our eyes, and that’s when I see the shadow of its twin hovering over camp. Ropes hang over the side of the deck and small figures slide down to the earth.</p>
 
-<p>From below, enormous propellers churn the pale air into thunderous gusts.</p>
+<p>“Stay here,” Aryn commands.She breaks into a sprint, agile even weighed down by her armor. I get to my feet and take off after her.</p>.
 
-<p>Silk balloons billow against the moonlight, tethered by steel lines that hum with every breath of wind.</p>
+<p>Iria calls after me, but I don’t turn back.</p>
 
-<p>Ropes drop.</p>
+<p>It’s easy to keep pace with Aryn. She does a doubletake at the sight of me alongside her, but she doesn’t comment. We run beside each other, our breath controlled and our strides even. We easily overtake the approaching sky ship. It only takes a few minutes to make it over the crest of the hill.</p>
 
-<p>Figures slide down into the burning camp.</p>
+<p>Everything is either lit by fire or obscured by smoke. Knights on horses surge toward groups of people wielding knives and scimitars that glint with flame. They look like Rhea with their heavy boots, salt-stained clothing, and bronze skin. My eye catches one girl that looks just like her before I realize it is her. Someone has armed her with a rapier and she’s a blur of practiced footwork and blows and parries. It’s mesmerizing.</p>
 
-<p>“Stay here,” Aryn commands.</p>
+<p>“Hide,” Aryn orders and shoves me behind a wagon.</p>
 
-<p>She sprints toward the chaos.</p>
+<p>I stumble against the splintered wood, heart in my throat. I grip the edge just long enough to steady myself before peering through a gap between crates.
+</p>
 
-<p>I run after her.</p>
+<p>Fire chews through tents. Horses rear up as the sky pirates approach to commandeer them. Automata stagger under impact, joints locking and releasing in frantic, broken rhythms. Steam vents burst and scald nearby knights that howl and claw at themselves as their armor heats and boils their skin.</p>
 
-<p>Smoke chews through the air.</p>
+<p>Aryn does not hesistate.</p>
 
-<p>Fire devours the tents.</p>
+<p>She vaults over a fallen barrel and plunges into the fray. Her sword flashes silver in the firelight. She disarms one attacker with a twist of her wrist, drives her shoulder into another, spins low and takes a third behind the knee. She moves with brutal elegance, every motion precise, merciless, beautiful. Her cape whips behind her like a banner of war.</p>
 
-<p>Knights clash with pirates in flashing arcs of steel.</p>
+<p>I lose sight of her almost immediately.</p>
 
-<p>Automata stagger through the battlefield, joints locking and releasing with violent bursts of steam.</p>
+<p>My eyes drift back to Rhea. She’s laughing fiercely, breathless with motion as she duels a knight near the edge of the burning wagons. Her opponent is her assigned protector, the handsome commander. She bleeds from a cut above her brow, yet she still positions herself between Rhea and two approaching automata.</p>
 
-<p>And in the middle of it all — Kenna walks forward.</p>
+<p>“Get back!” the knight shouts.</p>
 
-<p>Not running.</p>
+<p>Rhea parries her anyway.</p>
 
-<p>Not hiding.</p>
+<p>"Oh, loosen up, Pike,” she cries, and darts past her to strike at an automaton that has lunged too close.</p>
 
-<p>Just watching the sky.</p>
+<p>They fight back-to-back for one impossible second, pirate and knight, charge and captor, until the battlefield tears them apart again.</p>
 
-<p>“Kenna!”</p>
+<p>Then I see Kenna.</p>
 
-<p>She doesn’t hear me.</p>
+<p>She emerges from behind a burning tent. She’s not running or hiding. She’s walking straight into the center of the chaos. Her wide eyes are fixed on the sky. On the approaching ship.</p>
 
-<p>Above us, the damaged sky ship begins to fall.</p>
+<p>She moves through firelight and falling ash as if the world has gone quiet around her. Steam curls around her ankles. Shrapnel hisses past her shoulders. But she doesn’t flinch. Her face is lifted, reverent, almost awed.</p>
 
-<p>Light blooms across the hull.</p>
+<p>“Kenna!” I scream.</p>
 
-<p>Metal tears open.</p>
+<p>She doesn’t hear me. But Rhea does. She freezes at the sight of Kenna walking into the heat of everything.</p>
 
-<p>The ship spirals toward the earth like a dying star.</p>
+<p>“Kenna!” she bellows.</p>
 
-<p>Kenna finally turns.</p>
+<p>Above us, the second sky ship tilts, preparing to descend.</p>
 
-<p>She sees me running.</p>
+<p>I scan the camp for Kenna’s protector, the lanky one named Wren. They both have that perpetually windswept expression, with squinted eyes and weathered skin, even on a windless day. But she’s nowhere in sight.</p>
 
-<p>And smiles.</p>
+<p>I look back to where Kenna appeared and see several petrified faces peaking out from behind a carriage. Ylfa’s alabaster brow reflects the carnage before them, flickers of fire and slashes of steel dancing across her skin.</p>
 
-<p>Then a burning fragment of hull falls from the sky.</p>
+<p>A horn blares.</p>
+
+<p>Knights sprint toward a massive artillery platform at the edge of camp. There’s a cannon unlike anything I’ve seen before, its barrel etched with glowing sigils, its base anchored by heavy chains and trembling pistons. They load it with something that pulses like molten light and aim it at the approaching ship.</p>
+
+<p>Aryn is there now, shouting orders, blood streaking her cheek.</p>
+
+<p>“Fire when it locks!” she roars.</p>
+
+<p>A boom reverberates across the field as the shot tears through the air like a star ripped from the sky. The force of it whips Kenna’s hair around her face. It strikes the second ship’s undercarriage. Time slows. Light blooms against the hull and pieces of it shatter in every direction.</p>
+
+<p>The sky ship lists violently, propellers grinding, silk balloons tearing open like ruptured lungs. Some pirates try to abandon the ship, hurling ropes over the sides, but it’s moving too fast and they’re flung to the ground like dolls. It spirals, trailing fire and debris as it crashes beyond the ridge in a roar that shakes the ground beneath my feet.</p>
+
+<p>The shockwave throws me backward, but I lean into the blast and manage to keep my footing. I look back at Kenna. She’s still standing. Watching. I see Rhea on the ground with Commander Pike on top of her, shielding her head with her massive arms. She can’t get to her, but I think I can.</p>
+
+<p>“Kenna!” I scream again, and start to run for her. Finally she tilts her head and her eyes scan the field for me.</p>
+
+<p>She sees me hurdling toward her and smiles, her tangled hair and frenzied fascination giving her a feral look.</p>
+
+<p>Then a burning fragment of hull plummets from the sky, unstoppable as a meteor.</p>
 
 <p>The impact is soundless.</p>
 
