@@ -541,7 +541,7 @@ Founder, -------</p>
 
 <p>A pungent, acrid stench descends on us as it passes over us. We follow its path with our eyes, and that’s when I see the shadow of its twin hovering over camp. Ropes hang over the side of the deck and small figures slide down to the earth.</p>
 
-<p>“Stay here,” Aryn commands.She breaks into a sprint, agile even weighed down by her armor. I get to my feet and take off after her.</p>.
+<p>“Stay here,” Aryn commands.She breaks into a sprint, agile even weighed down by her armor. I get to my feet and take off after her.</p>
 
 <p>Iria calls after me, but I don’t turn back.</p>
 
