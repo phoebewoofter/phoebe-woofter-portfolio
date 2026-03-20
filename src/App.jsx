@@ -6,21 +6,35 @@ import Copywriting from "./pages/Copywriting";
 import Dev from "./pages/Dev";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
+import Login from "./Login";
 import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
       <Routes>
-        <Route element={<Layout />}>
-          <Route path="/" element={<Homepage />} />
-          <Route path="/writing" element={<Copywriting />} />
-          <Route path="/dev" element={<Dev />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
+
+        {/* Login page (public) */}
+        <Route path="/login" element={<Login />} />
+
+        {/* Protected app */}
+        <Route
+          path="/"
+          element={
+            <ProtectedRoute>
+              <Layout />
+            </ProtectedRoute>
+          }
+        >
+          <Route index element={<Homepage />} />
+          <Route path="writing" element={<Copywriting />} />
+          <Route path="dev" element={<Dev />} />
+          <Route path="about" element={<About />} />
+          <Route path="contact" element={<Contact />} />
         </Route>
+
       </Routes>
-    </Router>
+    </BrowserRouter>
   );
 }
 
